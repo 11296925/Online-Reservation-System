@@ -1,0 +1,66 @@
+.restaurant-header {
+  width: 100%;
+  background-color: #292929;
+  margin: 0;
+  padding: 2em 20%;
+  box-sizing: border-box;
+}
+
+.restaurant-header h1 {
+  color: white;
+  margin: 0;
+}
+
+.restaurant-header .datetime {
+  color: #a6a6a6;
+}
+
+.restaurant-container {
+  width: 60%;
+  height: auto;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.booking-nav {
+  width: 100%;
+  margin: 2em 0;
+}
+
+.booking-nav .left {
+  float: left;
+}
+
+.booking-nav .right {
+  float: right;
+}
+
+.timetable-row {
+  height: auto;
+}
+
+.timebutton {
+  background-color: lightgrey;
+  color: black;
+  padding: 7px 12px;
+  border-radius: 5px;
+  margin: 2px 0;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 3em;
+  min-height: 1.5em;
+  line-height: 1.5em;
+}
+
+.timebutton:hover, .timebutton:active {
+  background-color: #66ccff;
+}
+
+.mandatory {
+  margin-bottom: 0;
+}
+
+i {
+  color: red;
+}

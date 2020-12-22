@@ -1,0 +1,61 @@
+.restaurants {
+  width: 40%;
+  height: auto;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.restaurants h1 {
+  font-size: 4em;
+  font-family: aileronultralight;
+  border-bottom: 1px solid black;
+  margin: 0 0 20px;
+}
+
+.restaurant {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #E6E6E6;
+}
+
+.restaurant input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.restaurant label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+.restaurant .buttons {
+  margin-top: 10px;
+}
+
+.restaurant input[type=submit] {
+  font-size: 1.5em;
+  color: white;
+  border: none;
+  width: calc(50% - 3px);
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

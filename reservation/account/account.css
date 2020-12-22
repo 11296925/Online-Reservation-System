@@ -1,0 +1,61 @@
+.account-wrap {
+  width: 40%;
+  height: auto;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.account-wrap h1 {
+  font-size: 4em;
+  font-family: aileronultralight;
+  border-bottom: 1px solid black;
+  margin: 0 0 20px;
+}
+
+.account {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #E6E6E6;
+}
+
+.account input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px 0 12px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.account label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+.account .buttons {
+  margin-top: 10px;
+}
+
+.account input[type=submit] {
+  font-size: 1.5em;
+  color: white;
+  border: none;
+  width: calc(50% - 3px);
+}
+
+.account .col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.account .col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+.account .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

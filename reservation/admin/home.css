@@ -1,0 +1,27 @@
+.restaurants {
+  width: 30%;
+  height: auto;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.restaurants h1 {
+  font-size: 4em;
+  font-family: aileronultralight;
+  border-bottom: 1px solid black;
+  margin: 0 0 20px;
+}
+
+.restaurant {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #E6E6E6;
+}
+
+.restaurant .title {
+  font-size: 2em;
+}
+
+.restaurant .description {
+  font-size: 1em;
+}

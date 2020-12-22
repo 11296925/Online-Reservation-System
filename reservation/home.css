@@ -1,0 +1,112 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+
+.container {
+  height: 100%;
+}
+
+.header {
+  background-image: url("img/background.jpg");
+  background-size: cover;
+  display: table;
+  width: 100%;
+  height: 100%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
+}
+
+.header .welcome {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.header .buttons {
+  margin: 10px;
+}
+
+.header .logo {
+  width: 7em;
+  height: 7em;
+}
+
+.header h1 {
+  font-size: 5.5em;
+  font-family: aileronultralight;
+  margin: 0;
+}
+
+.header h3 {
+  font-size: 1.8em;
+  font-family: aileronultralight;
+  margin: 0;
+}
+
+.content {
+  background-color: #F2F2F2;
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  padding-bottom: 10px;
+}
+
+.restaurants {
+  width: 40%;
+  height: auto;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.restaurants h1 {
+  font-size: 4em;
+  font-family: aileronultralight;
+  border-bottom: 1px solid black;
+  margin: 0 0 20px;
+}
+
+.restaurant {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #E6E6E6;
+  display: flex;
+}
+
+.restaurant-left {
+  flex: 0 0 140px;
+}
+
+.restaurant-right {
+  flex: 1;
+  margin-left: 10px;
+}
+
+.restaurant-thumb {
+  width: 140px;
+}
+
+.restaurant .title {
+  font-size: 2em;
+}
+
+.restaurant .description {
+  font-size: 1em;
+}
+
+.button {
+  background-color: #660066;
+  padding: 15px 30px;
+  min-width: 5em;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  font-family: arial;
+}
+
+.button:hover {
+  background-color: #330033;
+}

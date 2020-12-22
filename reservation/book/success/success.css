@@ -1,0 +1,13 @@
+.message-wrapper {
+  width: 40%;
+  height: auto;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.message-wrapper h1 {
+  font-size: 4em;
+  font-family: aileronultralight;
+  border-bottom: 1px solid black;
+  margin: 0 0 20px;
+}

@@ -1,0 +1,63 @@
+.lost {
+  margin: 13em auto;
+  width: 300px;
+  padding: 30px 25px;
+  background: white;
+}
+
+.lost h1 {
+  font-size: 1.5em;
+  margin: -30px -25px 0 -25px;
+  padding: 40px 25px 10px;
+}
+
+.lost i {
+  color: red;
+}
+
+.lost .instructions {
+  font-size: 0.8em;
+}
+
+.lost input[type=text], input[type=password] {
+  width: 285px;
+  height: 50px;
+  margin-bottom: 25px;
+  padding-left: 10px;
+  border: 1px solid #ccc;
+}
+
+.lost input[type=text], input[type=password]:focus {
+  border-color: #6e8095;
+  outline: none;
+}
+
+.lost input[type=submit] {
+  width: 100%;
+  height: 50px;
+  font-size: 1.5em;
+  color: white;
+  text-align: center;
+  background: #660066;
+  border: none;
+}
+
+.lost input[type=submit]:hover {
+  background-color: #330033;
+}
+
+.login-lost {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.login-lost a {
+  color: #666;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.mandatory {
+  text-align: center;
+  margin-bottom: 0;
+}

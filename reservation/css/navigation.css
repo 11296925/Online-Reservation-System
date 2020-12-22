@@ -1,0 +1,47 @@
+.navbar {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #282a2c;
+  transition: 0.5s;
+  padding: 1em 0;
+  overflow-x: hidden;
+}
+
+.navbar .close {
+  width: 2em;
+  height: 2em;
+  margin-left: -3em;
+  vertical-align: middle;
+}
+
+.navbar .items {
+  margin-top: -3em;
+}
+
+.navbar .item {
+  padding: 0.5em 2em;
+  text-decoration: none;
+  font-size: 1.2em;
+  color: white;
+  display: block;
+  min-width: 100%;
+}
+
+.navbar .logout {
+  color: grey;
+  padding: 2em 2em;
+  border-bottom: 1px solid grey;
+}
+
+.navbar .active, .navbar .item:hover {
+  background-color: #3a3c3d;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav { padding-top: 15px; }
+  .sidenav a { font-size: 18px; }
+}
