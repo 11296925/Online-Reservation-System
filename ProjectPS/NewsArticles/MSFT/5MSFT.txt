@@ -1,0 +1,17 @@
+BNY Mellon Collaborates With Microsoft, Expands Data And Analytics Offering
+Renato Capelj
+Share
+The Bank of New York Mellon Corporation (NYSE: BK ), a global financial services company, formally announced the launch of new data and analytics solutions designed to help investment managers better manage data, launch funds, and customize investment portfolios to preferred Environmental, Social, and Governance (ESG) factors.
+What Does It Mean?
+The development comes as a natural evolution of BNYâs product portfolio. In an effort to broaden the flexibility and dependability of its cloud-based financial services capabilities, BNY Mellon Data and Analytics is releasing the following offerings:
+Data Vault: A cloud-based platform for the rapid onboarding of data and accelerate client innovation and discovery. With the platformâs scalable machine-learning approach to data quality, users can quickly and easily interact with data to gain actionable insights.
+Distribution Analytics: A machine-learning-assisted functionality that enables asset managers to better understand market demand drivers and sales momentum.
+ESG Data Analytics: An AI that enables the customization of investment portfolios to individual ESG factors via crowdsourced data and demonstrability screens.
+âOur vision is to take data from being a by-product of our traditional business to thinking about it as a new asset class in its own right," Charles Teschner, Global Head of Data and Analytics Solutions for BNY Mellon told Benzinga. "What makes the launch of these new innovative cloud-based products so exciting, is that they have been designed to target our clientsâ unmet needs.â
+âWeâre working closely with our clients to understand key critical issues they are facing and that need to be rapidly addressed to produce products that offer the most amount of value to meet their evolving needs in the front, middle and back-office.â
+Overall, the cloud-based solutions built on Microsoft Corporationâs (NASDAQ: MSFT ) Azure technology will help clients derive enhanced alpha-generating opportunities when managing assets.
+âThe scope and scale of BNY Mellonâs investment data, coupled with our portfolio of Azure products and services, will lead to solutions that enhance data as an asset and optimize the accessibility of information for investment managers,â said Judson Althoff, executive vice president of Microsoftâs Worldwide Commercial Business.
+To learn more about new data and analytics with BNY, click here .
+Photo by Scott Webb from Pexels.
+See more from Benzinga
+
